@@ -1,4 +1,4 @@
-# 轻读 · LightNovel 沉浸阅读 (Tampermonkey 用户脚本)
+# LightNovel 沉浸阅读 (Tampermonkey 用户脚本)
 
 A single-file userscript that adds a **clean, distraction-free immersive reader** to the
 existing **lightnovel.fun** site — without replacing the site. It reads through the site's own
